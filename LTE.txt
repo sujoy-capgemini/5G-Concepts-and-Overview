@@ -1,5 +1,6 @@
 
 LTE :
+
     •	LTE means that - Long Tern Evolution.
     •	It a standard for wireless broadband communication for mobile device and data technical.
     •	It was developed by 3GPP

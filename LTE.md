@@ -1,15 +1,25 @@
+# LTE Overview
 
-LTE :
+## What is LTE?
 
-    •	LTE means that - Long Tern Evolution.
-    •	It a standard for wireless broadband communication for mobile device and data technical.
-    •	It was developed by 3GPP
-    Architecture:
-    •	UE
-    •	eNodeB
-    •	EPC
-    1.	MME(Mobile management Entity)
-    2.	SGW(Service Gateway)
-    3.	PGW(Packet data network gateway)
-   Data Rate :
-      300 mbps download link and 75 mbps uplink
+- **LTE** stands for **Long Term Evolution**.
+- It is a standard for wireless broadband communication for mobile devices and data transmission.
+- Developed by **3GPP**.
+
+---
+
+## LTE Architecture
+
+- **UE** (User Equipment)
+- **eNodeB** (Evolved Node B)
+- **EPC** (Evolved Packet Core), which includes:
+  1. **MME** – Mobile Management Entity
+  2. **SGW** – Serving Gateway
+  3. **PGW** – Packet Data Network Gateway
+
+---
+
+## Data Rate
+
+- **Download**: Up to **300 Mbps**
+- **Upload**: Up to **75 Mbps**

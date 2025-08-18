@@ -22,4 +22,5 @@ The Service Data Adaptation Protocol (SDAP) is a sublayer in the 5G protocol sta
 ## Summary
 SDAP is a key component in 5G for enabling differentiated services and maintaining QoS. It plays a vital role in ensuring that applications with different requirements (e.g., video streaming vs. emergency services) receive appropriate treatment.
 
----
+
+---Hello
